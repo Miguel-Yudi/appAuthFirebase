@@ -1,5 +1,5 @@
 # App Auth Firebase
-Aplicativo Utilizando o authentication do firebase
+Aplicativo utilizando o authentication do firebase
 
 ### Foi utilizado o método de login por email 
 
