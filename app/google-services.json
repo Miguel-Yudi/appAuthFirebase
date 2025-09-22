@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "174177673351",
+    "project_id": "loginemail-4e9ff",
+    "storage_bucket": "loginemail-4e9ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174177673351:android:131e3b2737b46fa62d9822",
+        "android_client_info": {
+          "package_name": "com.example.emaillogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGiF_yvlfac_pq9pJZ8eO0Ffz5TtVfFV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
