@@ -11,4 +11,7 @@ Aplicativo Utilizando o authentication do firebase
 # Telas
 
 ### Login
-![Login](https://github.com/Miguel-Yudi/appAuthFirebase/blob/main/prints/login.jpeg "Registros")
+![Login](https://github.com/Miguel-Yudi/appAuthFirebase/blob/main/prints/login.jpeg "Login")
+
+### Cadastro
+![Cadastro](https://github.com/Miguel-Yudi/appAuthFirebase/blob/main/prints/cadastro.jpeg "Cadastro")
